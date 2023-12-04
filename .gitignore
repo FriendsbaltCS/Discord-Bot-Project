@@ -1,0 +1,7 @@
+__pycache__
+db.bak
+db.dat
+db.dir
+Pipfile
+Pipfile.lock
+.env
